@@ -3,3 +3,15 @@
 nav ul li {
   display: inline;
 }
+
+#sidebar {
+  float: right;
+  width: 180px;
+  background-color: #EAE3CB;
+  padding: 10px;
+  margin: 15px;
+}
+
+a.active {
+  font-weight: bold;
+}
